@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ListFragmentTest1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="picture_titles">
+        <item>Hexacóptero</item>
+        <item>Hexápodo</item>
+        <item>Redes</item>
+        <item>Electrónica</item>
+        <item>Instituto1</item>
+        <item>Interior</item>
+        <item>Telecomunicaciones</item>
+        <item>Física</item>
+        <item>Domotica</item>
+        <item>Globo</item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/hexacoptero_icono</item>
+        <item>@drawable/hexapodo_icono</item>
+        <item>@drawable/redes_icono</item>
+        <item>@drawable/electronica_icono</item>
+        <item>@drawable/instituto_icono</item>
+        <item>@drawable/interior_instituto_icono</item>
+        <item>@drawable/telecomunicaciones_iconos</item>
+        <item>@drawable/fisica_icono</item>
+        <item>@drawable/domotica_icono</item>
+        <item>@drawable/globo_icono</item>
+    </array>
+</resources>
